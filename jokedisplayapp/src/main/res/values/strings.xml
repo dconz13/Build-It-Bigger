@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">jokedisplayapp</string>
+    <string name="joke_error">Error retrieving joke from server.</string>
+</resources>
